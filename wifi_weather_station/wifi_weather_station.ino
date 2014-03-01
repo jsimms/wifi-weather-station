@@ -15,8 +15,8 @@
 #define ADAFRUIT_CC3000_CS    10
 
 // WiFi network (change with your settings !)
-#define WLAN_SSID       "R432Q"        // cannot be longer than 32 characters!
-#define WLAN_PASS       "RHNNXM4FRSQXN73V"
+#define WLAN_SSID       "Your network"        // cannot be longer than 32 characters!
+#define WLAN_PASS       "Your network pass"
 #define WLAN_SECURITY   WLAN_SEC_WPA2 // This can be WLAN_SEC_UNSEC, WLAN_SEC_WEP, WLAN_SEC_WPA or WLAN_SEC_WPA2
 
 // DHT11 sensor pins
